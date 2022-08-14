@@ -1,0 +1,95 @@
+{
+  "featured": {
+    "label": "Featured Cleanses",
+    "list": [
+      {
+        "img": ["/assets/products/1.png"],
+        "name": "GreeTune 7 Day Liver & GallBladder Cleanse",
+        "features": [
+          "Clean out small and large intestine",
+          "Improve immune system",
+          "Soften and dissolve gallbladder stones",
+          "Improves energy and focus",
+          "Maintain muscle and reduce fat"
+        ],
+        "price": 299.99
+      },
+      {
+        "img": ["/assets/products/2.png"],
+        "name": "GreenTune 7 Day Intestinal Detox",
+        "features": [
+          "Improve digestion system",
+          "Improve Intestinal strength and health",
+          "Decrease inflammation in the intestine",
+          "Rich source of vitmins and antioxidants"
+        ],
+        "price": 299.99
+      },
+      {
+        "img": ["/assets/products/1.png"],
+        "name": "GreenTune 21 days Parasite Remover Cleanse",
+        "features": [
+          "Get rid of unwanted bacteria and parasites",
+          "Strengthens the immune system",
+          "Helps with cold, congestion, urinary tract infections and intestinal warms"
+        ],
+        "price": 299.99
+      }
+    ]
+  },
+  "all": {
+    "label": "All Products",
+    "list": [
+      {
+        "img": ["/assets/products/1.png"],
+        "name": "Digest Aid",
+        "features": [
+          "Strengthen gut health",
+          "Prevent stress to the body and cells",
+          "Rich in vitamins"
+        ],
+        "price": 299.99
+      },
+      {
+        "img": ["/assets/products/2.png"],
+        "name": "Blood & Lymph",
+        "features": [
+          "Helps prevent and battles infections",
+          "Improves circulation"
+        ],
+        "price": 299.99
+      },
+      {
+        "img": ["/assets/products/1.png"],
+        "name": "Evacu-Ease",
+        "features": ["Laxative that improves intestinal wellness"],
+        "price": 299.99
+      },
+      {
+        "img": ["/assets/products/1.png"],
+        "name": "Evacu-Ease",
+        "features": ["Laxative that improves intestinal wellness"],
+        "price": 299.99
+      },
+      {
+        "img": ["/assets/products/2.png"],
+        "name": "Digest Aid",
+        "features": [
+          "Strengthen gut health",
+          "Prevent stress to the body and cells",
+          "Rich in vitamins"
+        ],
+        "price": 299.99
+      },
+      {
+        "img": ["/assets/products/1.png"],
+        "name": "Blood & Lymph",
+        "features": [
+          "Helps prevent and battles infections",
+          "Improves circulation"
+        ],
+        "price": 299.99
+      }
+    ]
+  }
+}
