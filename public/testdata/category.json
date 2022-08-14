@@ -1,0 +1,28 @@
+[{
+    "label": "Probiotic",
+    "value": "probiotic"
+}, {
+    "label": "Cleanses",
+    "value": "cleanses"
+}, {
+    "label": "Immune System",
+    "value": "immune-system"
+}, {
+    "label": "Digestion",
+    "value": "digestion"
+}, {
+    "label": "Laxative",
+    "value": "laxative"
+}, {
+    "label": "Liver/Gallbladder",
+    "value": "liver"
+}, {
+    "label": "Bone Strengthener",
+    "value": "bone"
+}, {
+    "label": "Inflammation",
+    "value": "inflammation"
+}, {
+    "label": "Parasite",
+    "value": "parasite"
+}]

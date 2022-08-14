@@ -1,0 +1,26 @@
+{
+  "img": [],
+  "name": "",
+  "description": "",
+  "features": [],
+  "price": 299,
+  "stock": 10,
+  "directions": "",
+  "ingredients": [],
+  "packages": [
+    {
+      "img": "",
+      "name": "",
+      "description": "",
+      "ingredients": []
+    }
+  ],
+  "recommended": [
+    {
+      "img": "",
+      "name": "",
+      "features": [],
+      "price": 299
+    }
+  ]
+}
