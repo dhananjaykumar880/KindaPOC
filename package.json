@@ -2,7 +2,7 @@
   "name": "poc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kindapos.github.io",
+  "homepage": "https://kindapoc.github.io",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.4",
     "bootstrap": "^5.2.0",
