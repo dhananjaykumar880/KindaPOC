@@ -3,7 +3,7 @@
     "label": "Featured Cleanses",
     "list": [
       {
-        "img": ["assets/products/1.png"],
+        "img": ["/assets/products/1.png"],
         "name": "GreeTune 7 Day Liver & GallBladder Cleanse",
         "features": [
           "Clean out small and large intestine",
@@ -15,7 +15,7 @@
         "price": 299.99
       },
       {
-        "img": ["assets/products/2.png"],
+        "img": ["/assets/products/2.png"],
         "name": "GreenTune 7 Day Intestinal Detox",
         "features": [
           "Improve digestion system",
@@ -26,7 +26,7 @@
         "price": 299.99
       },
       {
-        "img": ["assets/products/1.png"],
+        "img": ["/assets/products/1.png"],
         "name": "GreenTune 21 days Parasite Remover Cleanse",
         "features": [
           "Get rid of unwanted bacteria and parasites",
@@ -41,7 +41,7 @@
     "label": "All Products",
     "list": [
       {
-        "img": ["assets/products/1.png"],
+        "img": ["/assets/products/1.png"],
         "name": "Digest Aid",
         "features": [
           "Strengthen gut health",
@@ -51,7 +51,7 @@
         "price": 299.99
       },
       {
-        "img": ["assets/products/2.png"],
+        "img": ["/assets/products/2.png"],
         "name": "Blood & Lymph",
         "features": [
           "Helps prevent and battles infections",
@@ -60,19 +60,19 @@
         "price": 299.99
       },
       {
-        "img": ["assets/products/1.png"],
+        "img": ["/assets/products/1.png"],
         "name": "Evacu-Ease",
         "features": ["Laxative that improves intestinal wellness"],
         "price": 299.99
       },
       {
-        "img": ["assets/products/1.png"],
+        "img": ["/assets/products/1.png"],
         "name": "Evacu-Ease",
         "features": ["Laxative that improves intestinal wellness"],
         "price": 299.99
       },
       {
-        "img": ["assets/products/2.png"],
+        "img": ["/assets/products/2.png"],
         "name": "Digest Aid",
         "features": [
           "Strengthen gut health",
@@ -82,7 +82,7 @@
         "price": 299.99
       },
       {
-        "img": ["assets/products/1.png"],
+        "img": ["/assets/products/1.png"],
         "name": "Blood & Lymph",
         "features": [
           "Helps prevent and battles infections",
